@@ -1,0 +1,19 @@
+{
+    "name": "ibnudirsan/helper",
+    "description": "This package is a collection of helpers that are  by ibnudirsan.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ibnudirsan\\Helper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ibnudirsan",
+            "email": "ibnudirsan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
